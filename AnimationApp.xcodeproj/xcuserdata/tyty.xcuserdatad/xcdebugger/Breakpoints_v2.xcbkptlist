@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "76D1C343-9830-4357-845B-5E8E70F458D0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCC4D349-43A4-4E95-AB9A-E00F03C1EF2F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnimationApp/VCSoundTable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "VCSoundTable"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0EF5FFC-F0A9-497C-874B-1040E852DEEA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnimationApp/VCSoundTable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "VCSoundTable"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D0EF5FFC-F0A9-497C-874B-1040E852DEEA - 817c14bc81547ac7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnimationApp.VCSoundTable.soundNames.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "AnimationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tyty/Downloads/UIKit-Animation-App-HP3-B3-Complete%202/AnimationApp/VCSoundTable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "D0EF5FFC-F0A9-497C-874B-1040E852DEEA - 1a659444cedcce47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnimationApp.VCSoundTable.soundNames.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "AnimationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tyty/Downloads/UIKit-Animation-App-HP3-B3-Complete%202/AnimationApp/VCSoundTable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "D0EF5FFC-F0A9-497C-874B-1040E852DEEA - 7090e97e989350d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnimationApp.VCSoundTable.soundNames.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "AnimationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tyty/Downloads/UIKit-Animation-App-HP3-B3-Complete%202/AnimationApp/VCSoundTable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "D0EF5FFC-F0A9-497C-874B-1040E852DEEA - 227ef21dbc4db8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnimationApp.VCSoundTable.soundNames.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "AnimationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tyty/Downloads/UIKit-Animation-App-HP3-B3-Complete%202/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "D0EF5FFC-F0A9-497C-874B-1040E852DEEA - c56583e5fd35ae4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnimationApp.VCSoundTable.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AnimationApp.VCSoundTable"
+                  moduleName = "AnimationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tyty/Downloads/UIKit-Animation-App-HP3-B3-Complete%202/AnimationApp/VCSoundTable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "D0EF5FFC-F0A9-497C-874B-1040E852DEEA - 634b4d0a853d06b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnimationApp.VCSoundTable.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AnimationApp.VCSoundTable&gt;"
+                  moduleName = "AnimationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tyty/Downloads/UIKit-Animation-App-HP3-B3-Complete%202/AnimationApp/VCSoundTable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
